@@ -5,6 +5,7 @@
 
 .header h3 a {
   color: white;
+  text-decoration: none;
 }
 
 .header li {
@@ -12,6 +13,7 @@
   margin: 0;
   padding: 0.5rem 1rem;
   border-radius: 5px;
+  text-decoration: none;
 }
 
 .header ul li:hover {
@@ -22,10 +24,10 @@
   text-decoration: none;
 }
 
-.header h3 a {
-  color: white;
-}
-
 .header h3 a:hover {
   color: #00bc8c;
+}
+
+.header a {
+  text-decoration: none;
 }
